@@ -1,0 +1,435 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-23T07:54:06.733Z",
+  "events": [
+    {
+      "id": "3c10rxig",
+      "title": "Yunxi Photography X-deal Shoot",
+      "type": "photoshoot",
+      "date": "2026-09-27",
+      "location": "Arca South, Taguig",
+      "costumeId": null,
+      "notes": "Call time 2pm",
+      "status": "upcoming"
+    },
+    {
+      "id": "ozltfgog",
+      "title": "CosMeet 2026 D2 Dandadan CG",
+      "type": "convention",
+      "date": "2026-10-25",
+      "location": "Okada Manila",
+      "costumeId": "033cdbd1",
+      "notes": "",
+      "status": "upcoming"
+    },
+    {
+      "id": "ojetz91h",
+      "title": "CosMeet 2026 D1 Stark x Fern Waltz Duo",
+      "type": "convention",
+      "date": "2026-10-24",
+      "location": "Okada Manila",
+      "costumeId": null,
+      "notes": "",
+      "status": "upcoming"
+    },
+    {
+      "id": "4vq6c816",
+      "title": "MHA Mafia CG Shoot 20260920",
+      "type": "photoshoot",
+      "date": "2026-09-20",
+      "location": "District 1 Studio, Makati City",
+      "costumeId": null,
+      "notes": "Call time: 5pm-9pm",
+      "status": "upcoming"
+    },
+    {
+      "id": "0o4m0k87",
+      "title": "Invincible CG 20261017",
+      "type": "photoshoot",
+      "date": "2026-10-17",
+      "location": "District 1 Studio",
+      "costumeId": null,
+      "notes": "",
+      "status": "upcoming"
+    },
+    {
+      "id": "4eajlcj3",
+      "title": "PRO Heroes CG 20271128",
+      "type": "photoshoot",
+      "date": "2027-11-28",
+      "location": "",
+      "costumeId": "sm8in5yz",
+      "notes": "",
+      "status": "upcoming"
+    },
+    {
+      "id": "krpqxalp",
+      "title": "Jessie and James Duo",
+      "type": "convention",
+      "date": "2026-12-05",
+      "location": "",
+      "costumeId": "qps7pfcb",
+      "notes": "Jessie and James Duo",
+      "status": "upcoming"
+    },
+    {
+      "id": "4ufyet0g",
+      "title": "Naruto Genin CG 20271016",
+      "type": "photoshoot",
+      "date": "2027-10-16",
+      "location": "",
+      "costumeId": "imyngzbg",
+      "notes": "",
+      "status": "upcoming"
+    },
+    {
+      "id": "qnopxhdu",
+      "title": "Witch Hat Atelier CG",
+      "type": "photoshoot",
+      "date": "2026-12-06",
+      "location": "Raichi Studio, Quezon City",
+      "costumeId": "yekzelqs",
+      "notes": "",
+      "status": "upcoming"
+    },
+    {
+      "id": "174ydg31",
+      "title": "DUNMESHI 🍳⚔️ 2027",
+      "type": "photoshoot",
+      "date": "2027-06-01",
+      "location": "",
+      "costumeId": null,
+      "notes": "",
+      "status": "upcoming"
+    },
+    {
+      "id": "2ocan1gr",
+      "title": "Tinkerbell 2027",
+      "type": "photoshoot",
+      "date": "2027-05-01",
+      "location": "",
+      "costumeId": "",
+      "notes": "",
+      "status": "upcoming"
+    },
+    {
+      "id": "qr278mt7",
+      "title": "Celestial Spirits 2027-07",
+      "type": "photoshoot",
+      "date": "2027-07-01",
+      "location": "",
+      "costumeId": null,
+      "notes": "",
+      "status": "upcoming"
+    },
+    {
+      "id": "0kfo2sy2",
+      "title": "Gachi Doll Fest Arc 2027",
+      "type": "photoshoot",
+      "date": "2027-08-01",
+      "location": "",
+      "costumeId": null,
+      "notes": "",
+      "status": "upcoming"
+    },
+    {
+      "id": "wuhc0443",
+      "title": "Gachiakuta \"Trashstorm Arc\"",
+      "type": "photoshoot",
+      "date": "2027-03-31",
+      "location": "",
+      "costumeId": null,
+      "notes": "",
+      "status": "upcoming"
+    },
+    {
+      "id": "z6909r3i",
+      "title": "RenFaire 2026 Week 2 D2",
+      "type": "convention",
+      "date": "2026-11-21",
+      "location": "Fernwood Gardens Tagaytay",
+      "costumeId": "bbrv8cwv",
+      "notes": "Join GC, ask details",
+      "status": "upcoming"
+    }
+  ],
+  "costumes": [
+    {
+      "id": "033cdbd1",
+      "name": "Okarun outfit",
+      "character": "Okarun",
+      "series": "Dandadan",
+      "status": "in-progress",
+      "deadline": "2026-09-27",
+      "notes": "Uniform chest pocket, wash bag",
+      "kind": "personal"
+    },
+    {
+      "id": "sm8in5yz",
+      "name": "Ragdoll outfit",
+      "character": "Ragdoll",
+      "series": "My Hero Academia",
+      "status": "planning",
+      "deadline": "2027-11-28",
+      "notes": "full cos",
+      "kind": "personal"
+    },
+    {
+      "id": "qps7pfcb",
+      "name": "Team Rocket default costume",
+      "character": "Jessie and James",
+      "series": "Pokemon",
+      "status": "planning",
+      "deadline": "2026-12-06",
+      "notes": "full cos",
+      "kind": "personal"
+    },
+    {
+      "id": "imyngzbg",
+      "name": "Genin Outfit",
+      "character": "Shikamaru Genin",
+      "series": "Naruto",
+      "status": "planning",
+      "deadline": "2027-10-16",
+      "notes": "Wig & inner clothes",
+      "kind": "personal"
+    },
+    {
+      "id": "yekzelqs",
+      "name": "Default witch outfit",
+      "character": "Qifrey",
+      "series": "Witch Hat Atelier",
+      "status": "planning",
+      "deadline": "2026-12-06",
+      "notes": "Hat, cape",
+      "kind": "personal"
+    },
+    {
+      "id": "bbrv8cwv",
+      "name": "Wizard Outfit",
+      "character": "Aurelius Solaryn",
+      "series": "D&D OC",
+      "status": "planning",
+      "deadline": "2026-11-22",
+      "notes": "Wig, cape, shirt",
+      "kind": "personal"
+    },
+    {
+      "id": "4qs3lupx",
+      "name": "Dress",
+      "character": "Apple White",
+      "series": "Ever After High",
+      "status": "planning",
+      "deadline": "2026-11-22",
+      "notes": "",
+      "kind": "commission",
+      "client": {
+        "name": "Misaki",
+        "contact": "Akarimi Honoka",
+        "location": "Ibaraki, Japan"
+      },
+      "agreedPrice": 6000,
+      "depositPaid": 3000,
+      "commissionStage": "deposit-paid",
+      "shippedAt": "",
+      "trackingNumber": ""
+    }
+  ],
+  "materials": [
+    {
+      "id": "ads954q2",
+      "name": "Cape",
+      "costumeId": "yekzelqs",
+      "category": "fabric",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": ""
+    },
+    {
+      "id": "7z8x2e73",
+      "name": "Hat",
+      "costumeId": "yekzelqs",
+      "category": "accessory",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": ""
+    },
+    {
+      "id": "j9tutdv2",
+      "name": "James Cosplay",
+      "costumeId": "qps7pfcb",
+      "category": "other",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": ""
+    },
+    {
+      "id": "9bldxuvp",
+      "name": "4 Main Fabrics",
+      "costumeId": "4qs3lupx",
+      "category": "fabric",
+      "status": "done",
+      "estCost": 2000,
+      "store": "Shopee",
+      "notes": "4yd Gold Red, 3yd Pink, 3yd Red, 3yd White"
+    },
+    {
+      "id": "zj4e5tjt",
+      "name": "Corset",
+      "costumeId": "4qs3lupx",
+      "category": "accessory",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": "Make pattern, Cut fabric, Sew"
+    },
+    {
+      "id": "r7jvua5s",
+      "name": "Skirt",
+      "costumeId": "4qs3lupx",
+      "category": "fabric",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": "Make pattern, Cut fabric, Sew"
+    },
+    {
+      "id": "6lvkbzox",
+      "name": "Blouse",
+      "costumeId": "4qs3lupx",
+      "category": "accessory",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": "Make pattern, Cut fabric, Sew"
+    },
+    {
+      "id": "f35hojps",
+      "name": "Black Lace",
+      "costumeId": "4qs3lupx",
+      "category": "fabric",
+      "status": "ordered",
+      "estCost": 108,
+      "store": "SHOPEE",
+      "notes": "10 yards"
+    },
+    {
+      "id": "j2nmntfs",
+      "name": "Cape",
+      "costumeId": "bbrv8cwv",
+      "category": "accessory",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": ""
+    },
+    {
+      "id": "7pr69co7",
+      "name": "Shirt",
+      "costumeId": "bbrv8cwv",
+      "category": "fabric",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": ""
+    },
+    {
+      "id": "you5az39",
+      "name": "Wig",
+      "costumeId": "bbrv8cwv",
+      "category": "wig",
+      "status": "to-buy",
+      "estCost": 600,
+      "store": "Shopee - Joomii",
+      "notes": "White medium length"
+    },
+    {
+      "id": "8a08hobj",
+      "name": "Petticoat",
+      "costumeId": "4qs3lupx",
+      "category": "accessory",
+      "status": "to-buy",
+      "estCost": 129,
+      "store": "Shopee",
+      "notes": "Black, 45cm"
+    },
+    {
+      "id": "zkfxug3t",
+      "name": "Ribbon headband",
+      "costumeId": "4qs3lupx",
+      "category": "fabric",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": ""
+    }
+  ],
+  "payments": [
+    {
+      "id": "w5w43je6",
+      "label": "MHA Mafia CG Shoot 20260920",
+      "type": "other",
+      "amount": 1220,
+      "paid": 857,
+      "dueDate": "2026-09-23",
+      "eventId": "4vq6c816",
+      "notes": "Maribank",
+      "entries": [
+        {
+          "id": "15skv97g",
+          "date": "2026-09-20",
+          "amount": 400,
+          "type": "payment",
+          "label": "Installment",
+          "notes": "Cash"
+        },
+        {
+          "id": "5tvim2j7",
+          "date": "2026-07-30",
+          "amount": 132,
+          "type": "payment",
+          "label": "Installment",
+          "notes": "Photog dp"
+        },
+        {
+          "id": "mog2tbay",
+          "date": "2026-07-30",
+          "amount": 325,
+          "type": "payment",
+          "label": "Installment",
+          "notes": "Studio dp"
+        },
+        {
+          "id": "ktn1mcoe",
+          "date": "2026-09-22",
+          "amount": 363,
+          "type": "payment",
+          "label": "Installment",
+          "notes": "Gcash: 7045 316 170971"
+        }
+      ]
+    },
+    {
+      "id": "ya9d3vq2",
+      "label": "Invincible CG 20261017",
+      "type": "other",
+      "amount": 1175,
+      "dueDate": "2026-11-17",
+      "eventId": "0o4m0k87",
+      "notes": "",
+      "entries": [
+        {
+          "id": "kcheucle",
+          "date": "2026-07-30",
+          "amount": 588,
+          "type": "payment",
+          "label": "Installment",
+          "notes": "Maribank, Shoot DP"
+        }
+      ]
+    }
+  ]
+}
