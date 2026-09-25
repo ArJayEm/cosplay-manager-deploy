@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T07:54:06.733Z",
+  "updatedAt": "2026-09-25T06:32:36.539Z",
   "events": [
     {
       "id": "3c10rxig",
@@ -8,7 +8,7 @@
       "type": "photoshoot",
       "date": "2026-09-27",
       "location": "Arca South, Taguig",
-      "costumeId": null,
+      "costumeId": "033cdbd1",
       "notes": "Call time 2pm",
       "status": "upcoming"
     },
@@ -48,7 +48,7 @@
       "type": "photoshoot",
       "date": "2026-10-17",
       "location": "District 1 Studio",
-      "costumeId": null,
+      "costumeId": "9vshkar8",
       "notes": "",
       "status": "upcoming"
     },
@@ -104,9 +104,9 @@
     },
     {
       "id": "2ocan1gr",
-      "title": "Tinkerbell 2027",
+      "title": "Tinkerbell 20270502",
       "type": "photoshoot",
-      "date": "2027-05-01",
+      "date": "2027-05-02",
       "location": "",
       "costumeId": "",
       "notes": "",
@@ -146,74 +146,44 @@
       "id": "z6909r3i",
       "title": "RenFaire 2026 Week 2 D2",
       "type": "convention",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "location": "Fernwood Gardens Tagaytay",
       "costumeId": "bbrv8cwv",
       "notes": "Join GC, ask details",
       "status": "upcoming"
+    },
+    {
+      "id": "9ft8ecgb",
+      "title": "THG: Sunrise on the Reaping 2026",
+      "type": "movie",
+      "date": "2026-11-20",
+      "location": "",
+      "costumeId": "a6a60fnw",
+      "notes": "",
+      "status": "upcoming"
+    },
+    {
+      "id": "awhnuamj",
+      "title": "Cosplay Mania 2026 D2",
+      "type": "convention",
+      "date": "2026-10-03",
+      "location": "SMX Convention Center, Pasay City",
+      "costumeId": "juxl542n",
+      "notes": "Pay B&B Share, Buy ticket",
+      "status": "upcoming"
+    },
+    {
+      "id": "gi8qr7e8",
+      "title": "Cosplay Mania 2026 D3",
+      "type": "convention",
+      "date": "2026-10-04",
+      "location": "SMX Convention Center, Past City",
+      "costumeId": "a6a60fnw",
+      "notes": "Pay B&B Share, Buy ticket",
+      "status": "upcoming"
     }
   ],
   "costumes": [
-    {
-      "id": "033cdbd1",
-      "name": "Okarun outfit",
-      "character": "Okarun",
-      "series": "Dandadan",
-      "status": "in-progress",
-      "deadline": "2026-09-27",
-      "notes": "Uniform chest pocket, wash bag",
-      "kind": "personal"
-    },
-    {
-      "id": "sm8in5yz",
-      "name": "Ragdoll outfit",
-      "character": "Ragdoll",
-      "series": "My Hero Academia",
-      "status": "planning",
-      "deadline": "2027-11-28",
-      "notes": "full cos",
-      "kind": "personal"
-    },
-    {
-      "id": "qps7pfcb",
-      "name": "Team Rocket default costume",
-      "character": "Jessie and James",
-      "series": "Pokemon",
-      "status": "planning",
-      "deadline": "2026-12-06",
-      "notes": "full cos",
-      "kind": "personal"
-    },
-    {
-      "id": "imyngzbg",
-      "name": "Genin Outfit",
-      "character": "Shikamaru Genin",
-      "series": "Naruto",
-      "status": "planning",
-      "deadline": "2027-10-16",
-      "notes": "Wig & inner clothes",
-      "kind": "personal"
-    },
-    {
-      "id": "yekzelqs",
-      "name": "Default witch outfit",
-      "character": "Qifrey",
-      "series": "Witch Hat Atelier",
-      "status": "planning",
-      "deadline": "2026-12-06",
-      "notes": "Hat, cape",
-      "kind": "personal"
-    },
-    {
-      "id": "bbrv8cwv",
-      "name": "Wizard Outfit",
-      "character": "Aurelius Solaryn",
-      "series": "D&D OC",
-      "status": "planning",
-      "deadline": "2026-11-22",
-      "notes": "Wig, cape, shirt",
-      "kind": "personal"
-    },
     {
       "id": "4qs3lupx",
       "name": "Dress",
@@ -233,6 +203,96 @@
       "commissionStage": "deposit-paid",
       "shippedAt": "",
       "trackingNumber": ""
+    },
+    {
+      "id": "bbrv8cwv",
+      "name": "Wizard Outfit",
+      "character": "Aurelius Solaryn",
+      "series": "D&D OC",
+      "status": "planning",
+      "deadline": "2026-11-22",
+      "notes": "Wig, cape, shirt",
+      "kind": "personal"
+    },
+    {
+      "id": "qps7pfcb",
+      "name": "Team Rocket default costume",
+      "character": "Jessie and James",
+      "series": "Pokemon",
+      "status": "planning",
+      "deadline": "2026-12-06",
+      "notes": "full cos",
+      "kind": "personal"
+    },
+    {
+      "id": "juxl542n",
+      "name": "Date outfit",
+      "character": "Mei Kinosaki",
+      "series": "MarriageToxxin",
+      "status": "in-progress",
+      "deadline": "2026-10-04",
+      "notes": "Wig, tie",
+      "kind": "personal"
+    },
+    {
+      "id": "033cdbd1",
+      "name": "Okarun outfit",
+      "character": "Okarun",
+      "series": "Dandadan",
+      "status": "in-progress",
+      "deadline": "2026-09-27",
+      "notes": "Uniform chest pocket, wash bag",
+      "kind": "personal"
+    },
+    {
+      "id": "yekzelqs",
+      "name": "Default witch outfit",
+      "character": "Qifrey",
+      "series": "Witch Hat Atelier",
+      "status": "planning",
+      "deadline": "2026-12-06",
+      "notes": "Hat, cape",
+      "kind": "personal"
+    },
+    {
+      "id": "sm8in5yz",
+      "name": "Ragdoll outfit",
+      "character": "Ragdoll",
+      "series": "My Hero Academia",
+      "status": "planning",
+      "deadline": "2027-11-28",
+      "notes": "full cos",
+      "kind": "personal"
+    },
+    {
+      "id": "9vshkar8",
+      "name": "Hero Costume",
+      "character": "RexSplode",
+      "series": "Invincible",
+      "status": "in-progress",
+      "deadline": "2026-10-17",
+      "notes": "Utility Belt",
+      "kind": "personal"
+    },
+    {
+      "id": "imyngzbg",
+      "name": "Genin Outfit",
+      "character": "Shikamaru Genin",
+      "series": "Naruto",
+      "status": "planning",
+      "deadline": "2027-10-16",
+      "notes": "Wig & inner clothes",
+      "kind": "personal"
+    },
+    {
+      "id": "a6a60fnw",
+      "name": "Quarter Quell Outift",
+      "character": "Young Haymitch Abernathy",
+      "series": "THG: Sunrise on the Reaping",
+      "status": "in-progress",
+      "deadline": "2026-11-20",
+      "notes": "Jacket, Wig, Pants, Bag, Props",
+      "kind": "personal"
     }
   ],
   "materials": [
@@ -244,7 +304,8 @@
       "status": "to-make",
       "estCost": 0,
       "store": "",
-      "notes": ""
+      "notes": "",
+      "priority": "normal"
     },
     {
       "id": "7z8x2e73",
@@ -254,7 +315,8 @@
       "status": "to-make",
       "estCost": 0,
       "store": "",
-      "notes": ""
+      "notes": "",
+      "priority": "normal"
     },
     {
       "id": "j9tutdv2",
@@ -264,7 +326,8 @@
       "status": "to-make",
       "estCost": 0,
       "store": "",
-      "notes": ""
+      "notes": "",
+      "priority": "normal"
     },
     {
       "id": "9bldxuvp",
@@ -274,7 +337,8 @@
       "status": "done",
       "estCost": 2000,
       "store": "Shopee",
-      "notes": "4yd Gold Red, 3yd Pink, 3yd Red, 3yd White"
+      "notes": "4yd Gold Red, 3yd Pink, 3yd Red, 3yd White",
+      "priority": "normal"
     },
     {
       "id": "zj4e5tjt",
@@ -284,7 +348,8 @@
       "status": "to-make",
       "estCost": 0,
       "store": "",
-      "notes": "Make pattern, Cut fabric, Sew"
+      "notes": "Make pattern, Cut fabric, Sew",
+      "priority": "normal"
     },
     {
       "id": "r7jvua5s",
@@ -294,7 +359,8 @@
       "status": "to-make",
       "estCost": 0,
       "store": "",
-      "notes": "Make pattern, Cut fabric, Sew"
+      "notes": "Make pattern, Cut fabric, Sew",
+      "priority": "normal"
     },
     {
       "id": "6lvkbzox",
@@ -304,17 +370,19 @@
       "status": "to-make",
       "estCost": 0,
       "store": "",
-      "notes": "Make pattern, Cut fabric, Sew"
+      "notes": "Make pattern, Cut fabric, Sew",
+      "priority": "normal"
     },
     {
       "id": "f35hojps",
       "name": "Black Lace",
       "costumeId": "4qs3lupx",
       "category": "fabric",
-      "status": "ordered",
+      "status": "done",
       "estCost": 108,
       "store": "SHOPEE",
-      "notes": "10 yards"
+      "notes": "10 yards",
+      "priority": "normal"
     },
     {
       "id": "j2nmntfs",
@@ -324,7 +392,8 @@
       "status": "to-make",
       "estCost": 0,
       "store": "",
-      "notes": ""
+      "notes": "",
+      "priority": "normal"
     },
     {
       "id": "7pr69co7",
@@ -334,7 +403,8 @@
       "status": "to-make",
       "estCost": 0,
       "store": "",
-      "notes": ""
+      "notes": "",
+      "priority": "normal"
     },
     {
       "id": "you5az39",
@@ -344,7 +414,8 @@
       "status": "to-buy",
       "estCost": 600,
       "store": "Shopee - Joomii",
-      "notes": "White medium length"
+      "notes": "White medium length",
+      "priority": "normal"
     },
     {
       "id": "8a08hobj",
@@ -354,7 +425,8 @@
       "status": "to-buy",
       "estCost": 129,
       "store": "Shopee",
-      "notes": "Black, 45cm"
+      "notes": "White, 45cm",
+      "priority": "normal"
     },
     {
       "id": "zkfxug3t",
@@ -364,7 +436,151 @@
       "status": "to-make",
       "estCost": 0,
       "store": "",
-      "notes": ""
+      "notes": "",
+      "priority": "normal"
+    },
+    {
+      "id": "p4kbcuqf",
+      "name": "Tshirt",
+      "costumeId": "a6a60fnw",
+      "category": "accessory",
+      "status": "to-buy",
+      "estCost": 268,
+      "store": "Shopee https://s.shopee.ph/1qcHNWbhwW",
+      "notes": "Black & White raglan",
+      "priority": "normal"
+    },
+    {
+      "id": "4ckk4r6e",
+      "name": "Belt rods, Pockets",
+      "costumeId": "9vshkar8",
+      "category": "accessory",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": "",
+      "priority": "normal"
+    },
+    {
+      "id": "33lnrc0w",
+      "name": "Pants",
+      "costumeId": "a6a60fnw",
+      "category": "accessory",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": "",
+      "priority": "normal"
+    },
+    {
+      "id": "c8lqmz2e",
+      "name": "Jacket",
+      "costumeId": "a6a60fnw",
+      "category": "accessory",
+      "status": "done",
+      "estCost": 0,
+      "store": "",
+      "notes": "",
+      "priority": "normal"
+    },
+    {
+      "id": "8yk24bl3",
+      "name": "Bag Inner Foam",
+      "costumeId": "033cdbd1",
+      "category": "prop",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": "Use eva foam",
+      "priority": "normal"
+    },
+    {
+      "id": "kizxferq",
+      "name": "Tie",
+      "costumeId": "juxl542n",
+      "category": "accessory",
+      "status": "to-buy",
+      "estCost": 0,
+      "store": "",
+      "notes": "Acrylic paint (red, yellow, violet)",
+      "priority": "normal"
+    },
+    {
+      "id": "9tir0ta8",
+      "name": "Tie",
+      "costumeId": "juxl542n",
+      "category": "accessory",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": "CheckAcrylic paint (red, yellow, violet)",
+      "priority": "normal"
+    },
+    {
+      "id": "irqtywob",
+      "name": "Golden Balls",
+      "costumeId": "033cdbd1",
+      "category": "prop",
+      "status": "done",
+      "estCost": 85,
+      "store": "Tiktok Shop",
+      "notes": "Christmas Balls",
+      "priority": "normal"
+    },
+    {
+      "id": "7p3hjv8i",
+      "name": "Red Handbag",
+      "costumeId": "juxl542n",
+      "category": "fabric",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": "Refer Pattern to donwloaded pic",
+      "priority": "normal"
+    },
+    {
+      "id": "4upy0gqu",
+      "name": "faux leatherette",
+      "costumeId": "juxl542n",
+      "category": "prop",
+      "status": "to-buy",
+      "estCost": 80,
+      "store": "Shopee",
+      "notes": "Maroon x 2",
+      "priority": "normal"
+    },
+    {
+      "id": "m6lkmfd7",
+      "name": "Quick release buckle",
+      "costumeId": "a6a60fnw",
+      "category": "accessory",
+      "status": "to-buy",
+      "estCost": 129,
+      "store": "",
+      "notes": "",
+      "priority": "normal"
+    },
+    {
+      "id": "nftkmv8d",
+      "name": "Flower fabric",
+      "costumeId": "juxl542n",
+      "category": "fabric",
+      "status": "to-buy",
+      "estCost": 147,
+      "store": "Shopee https://s.shopee.ph/2LYY2lav8V",
+      "notes": "",
+      "priority": "normal"
+    },
+    {
+      "id": "cyx7bok8",
+      "name": "Sew Bag Strap",
+      "costumeId": "033cdbd1",
+      "category": "prop",
+      "status": "to-make",
+      "estCost": 0,
+      "store": "",
+      "notes": "",
+      "priority": "normal"
     }
   ],
   "payments": [
@@ -430,6 +646,26 @@
           "notes": "Maribank, Shoot DP"
         }
       ]
+    },
+    {
+      "id": "dmdusb19",
+      "label": "Pay B&B Share, ticket",
+      "type": "ticket",
+      "amount": 711,
+      "dueDate": "2026-10-03",
+      "eventId": "awhnuamj",
+      "notes": "",
+      "entries": []
+    },
+    {
+      "id": "nzjo2tmf",
+      "label": "Pay B&B Share, Ticket",
+      "type": "ticket",
+      "amount": 711,
+      "dueDate": "2026-10-04",
+      "eventId": "gi8qr7e8",
+      "notes": "",
+      "entries": []
     }
   ]
 }
